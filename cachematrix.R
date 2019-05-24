@@ -2,8 +2,8 @@
 ## May 23, 2019
 
 ## The following functions will first create a matrix whose inverse will be 
-## placed into a cache. This allows for faster computation in the event that the 
-## matrix inversion will be required multiple times.
+## placed into a cache, along with additional functions needed to retrieve information.
+## This allows for faster computation in the event that the matrix inversion will be required multiple times.
 
 ## makeCacheMatrix creates the matrix object that will be stored in the cache
 
